@@ -1,0 +1,11 @@
+# ignore everything
+*/*
+*.*
+
+# but not these files ...
+!.gitignore
+
+
+# but not these folders ...
+!ProjectSettings/**
+!Assets/**
