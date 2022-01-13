@@ -4,6 +4,8 @@
 
 # but not these files ...
 !.gitignore
+!README.md
+!LICENSE
 
 
 # but not these folders ...
